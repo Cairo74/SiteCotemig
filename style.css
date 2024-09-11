@@ -1,0 +1,89 @@
+body{font-family: "Roboto", sans-serif;}
+
+.roboto-regular {
+  font-family: "Roboto", sans-serif;
+  font-weight: 400;
+  font-style:normal;
+}
+
+
+
+table{width: 100%;
+  height: 950px;
+  background-image: url(Imagens/fundo\ 1.png);
+  background-size: cover;
+ text-align: center;
+}
+
+body{margin: 0;}
+
+#roxo{background-color: #400c64}
+
+#imgtudotech{  text-align: center;
+margin-top: 50px;
+width: 500px;}
+  
+#imgforms{
+margin-top: 0px;
+width: 420px;}
+
+#logo{
+  width: 200px;
+  
+}
+
+#matriculas{
+margin-bottom: 0px;
+width: 400px;}
+
+#telefone{text-align: center;
+  margin-top: 5px;
+width: 300px;}
+
+#google{
+  margin-top: 0px;
+  width: 250px;
+}
+
+
+
+#texto1{color:white;
+text-align: center;
+border-width: 1px;
+margin-top: 45px;
+text-align: left;}
+
+#img1{
+margin-top: 40px;
+margin-bottom: 40px;
+width: 500px;}
+
+.txt2{font-size: 20px;}
+.txt3{font-size: 10px;}
+
+.icones{width: 145px;}
+
+#verdin{background-color: #89f668;}
+
+#tr6{background-color: rgba(251,69,199,255);}
+
+#tr8{background-color: #400c64;}
+
+#colunas{column-count: 3;}
+#colunas3{column-count: 3;}
+
+#google2{width: 150px;}
+
+#txtporquesertech{font-size: 40px;
+color: white;
+text-align: right;}
+
+#imagens{width: 500px;
+text-align: right;}
+
+
+td { width: 25%;}
+
+#l1p1{font-size: 29px; font-weight: bold;}
+#l2p1{font-size: 20px; font-weight: 550;}
+#l3p1{font-size: 18px; font-weight: 100;}
